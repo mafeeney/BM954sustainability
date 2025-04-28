@@ -1,9 +1,9 @@
 Package: PACKAGE_NAME
-Title: BOOK_TITLE
+Title: BM954sustainability
 Version: 0.1
 Authors@R: c(
-    person("FORENAME1", "SURNAME1", , "EMAIL.1@strath.ac.uk", role = c("aut", "cre")),
-    person("FORENAME2", "SURNAME2", , "EMAIL.2@strath.ac.uk", role = c("aut", "cre"))
+    person("Morgan", "Feeney", , "morgan.feeney@strath.ac.uk", role = c("aut", "cre")),
+    person("Leighton", "Pritchard", , "leighton.pritchard@strath.ac.uk", role = c("aut", "cre"))
   )
 URL: https://github.com/sipbs-compbiol/sipbs-compbiol-book-template
 Depends: 
