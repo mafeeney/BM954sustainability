@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "THE TITLE OF THE BOOK",
+    "title": "BM954 Sustainability Workshop",
     "section": "",
     "text": "Preface\nThis is a Quarto book, generated using the sipbs-compbiol-book-template GitHub template.\nThe Preface page is intended as a frontispiece with brief introductory information about the book and, maybe, its authors.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
     "crumbs": [
@@ -20,16 +20,6 @@
     ]
   },
   {
-    "objectID": "early-section.html",
-    "href": "early-section.html",
-    "title": "Early Section",
-    "section": "",
-    "text": "Discussion with a different title\nThis .qmd file introduces a Part of the Quarto book. We use the {#sec-REFERENCE} option to make it cross-referenceable elsewhere in the text, and the {.unnumbered} option to avoid giving it a section number.\nWe can add custom callout boxes like this:\nLet’s talk about something else",
-    "crumbs": [
-      "Early Section"
-    ]
-  },
-  {
     "objectID": "early-section-topic.html",
     "href": "early-section-topic.html",
     "title": "2  Early Section Topic",
@@ -38,16 +28,6 @@
     "crumbs": [
       "Early Section",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Early Section Topic</span>"
-    ]
-  },
-  {
-    "objectID": "late-section.html",
-    "href": "late-section.html",
-    "title": "Late Section",
-    "section": "",
-    "text": "This .qmd file introduces a Part of the Quarto book. We use the {#sec-REFERENCE} option to make it cross-referenceable elsewhere in the text, and the {.unnumbered} option to avoid giving it a section number.",
-    "crumbs": [
-      "Late Section"
     ]
   },
   {
@@ -91,6 +71,26 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "early-section.html",
+    "href": "early-section.html",
+    "title": "Early Section",
+    "section": "",
+    "text": "Discussion with a different title\nLet’s talk about something else",
+    "crumbs": [
+      "Early Section"
+    ]
+  },
+  {
+    "objectID": "late-section.html",
+    "href": "late-section.html",
+    "title": "Late Section",
+    "section": "",
+    "text": "This .qmd file introduces a Part of the Quarto book. We use the {#sec-REFERENCE} option to make it cross-referenceable elsewhere in the text, and the {.unnumbered} option to avoid giving it a section number.",
+    "crumbs": [
+      "Late Section"
     ]
   }
 ]
